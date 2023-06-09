@@ -1,0 +1,13 @@
+main {
+    background: linear-gradient(rgb(52, 143, 217), rgb(148, 5, 5), rgb(183, 183, 209), rgb(31, 21, 219), pink);
+    height:100%;
+
+}
+
+body{
+    height:100%;
+}
+
+html{
+    height:100%;
+}
